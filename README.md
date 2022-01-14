@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rythien</h1>
-<h3 align="center">I'm currently learning Information Technology.</h3>
+<h6> Hi 👋, I'm Rythien</h6>
+<p1> I'm currently learning Information Technology.</p1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
